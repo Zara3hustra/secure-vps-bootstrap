@@ -27,7 +27,7 @@ Focus: Quick start + essential security (not production-grade)
 ssh root@your-vps-ip
 
 # 2. Run bootstrap
-curl -sSL https://raw.githubusercontent.com/yourusername/secure-vps-bootstrap/main/bootstrap.sh | bash
+curl -sSL https://raw.githubusercontent.com/Zara3hustra/secure-vps-bootstrap/main/bootstrap.sh | bash
 
 # 3. Follow prompts (3 questions total)
 

@@ -40,7 +40,7 @@ A **Claude Code Skill** that helps you set up a new Ubuntu VPS with essential se
 
 ```bash
 # On your NEW VPS (as root):
-curl -sSL https://raw.githubusercontent.com/yourusername/secure-vps-bootstrap/main/bootstrap.sh | bash
+curl -sSL https://raw.githubusercontent.com/Zara3hustra/secure-vps-bootstrap/main/bootstrap.sh | bash
 ```
 
 The script will:
@@ -75,7 +75,7 @@ After setup, verify everything is configured correctly:
 
 ```bash
 # Download and run security check
-curl -sSL https://raw.githubusercontent.com/yourusername/secure-vps-bootstrap/main/security-check.sh | bash
+curl -sSL https://raw.githubusercontent.com/Zara3hustra/secure-vps-bootstrap/main/security-check.sh | bash
 ```
 
 Expected output:
@@ -235,8 +235,8 @@ Built as a Claude Code Skill for automated VPS setup
 
 ## 📞 Support
 
-- **Issues:** https://github.com/yourusername/secure-vps-bootstrap/issues
-- **Discussions:** https://github.com/yourusername/secure-vps-bootstrap/discussions
+- **Issues:** https://github.com/Zara3hustra/secure-vps-bootstrap/issues
+- **Discussions:** https://github.com/Zara3hustra/secure-vps-bootstrap/discussions
 
 ---
 
